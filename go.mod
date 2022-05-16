@@ -3,6 +3,7 @@ module github.com/leandroreox/krakend-rediscache
 go 1.16
 
 require (
+	github.com/devopsfaith/krakend-httpcache v1.4.0
 	github.com/go-redis/redis/v8 v8.1.2
 	github.com/golang/mock v1.4.4
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
