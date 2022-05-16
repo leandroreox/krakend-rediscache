@@ -1,4 +1,4 @@
-module leandroreox/krakend-rediscache
+module github.com/leandroreox/krakend-rediscache
 
 go 1.18
 
