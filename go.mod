@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend-httpcache
+module github.com/leandroreox/krakend-rediscache
 
 go 1.16
 
